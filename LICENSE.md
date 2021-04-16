@@ -1,0 +1,1 @@
+Le projet est sous aucune licence, les droits d'auteur du projet sont exclusif à son auteur : Julien BALDERIOTTI.

@@ -1,0 +1,8 @@
+# Ignore all Sublime Project files.
+*.sublime-project
+# Igore all Sublime Workspace files.
+workspaces/
+*.sublime-workspace
+# Ignore all logs files.
+logs/
+*.log
