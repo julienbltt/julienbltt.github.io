@@ -8,6 +8,7 @@
 	font-family: segoeui;
 }
 
+<<<<<<< HEAD
 /* Smartphone screen */
 #block_page
 {
@@ -30,6 +31,9 @@ header h1
 	padding: auto;
 }
 #main
+=======
+@media only screen and (max-width: 1400px) /* @media all and (max-width: 1334px) and (max-height: 750px) and (orientation: portrait) */
+>>>>>>> c9a3304364835bddb661d57a4ffeea0ee214539a
 {
 	border: 3px green solid;
 
@@ -110,9 +114,18 @@ nav div
 	padding: 7.5px;
 }
 
+<<<<<<< HEAD
 
 /* Destockp screen */
 @media only screen and (min-width: 1280px)
 {
 	
 }
+=======
+		font-size: 0.87em;
+		text-align: justify;
+		margin: 7.5px;
+		padding: 7.5px;
+	}
+}
+>>>>>>> c9a3304364835bddb661d57a4ffeea0ee214539a
