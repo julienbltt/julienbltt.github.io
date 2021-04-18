@@ -3,122 +3,116 @@
     src: url('segoeui.ttf') format('truetype');
 }
 
-@media all
+*
 {
-	*
-	{
-		font-family: segoeui;
-	}
+	font-family: segoeui;
 }
 
-@media handheld and (orientation: portrait)
+/* Smartphone screen */
+#block_page
 {
-	nav ul li
-	{
-		
-	}
+	display: flex;
+	flex-direction: column;
+}
+header
+{
+	border: 3px green solid;
+
+	flex: 1;
+}
+header h1
+{
+	font-size: 2.5em;
+	text-align: center;
+	text-shadow: 2px 2px 1px black;
+	font-weight: bold;
+	margin: auto;
+	padding: auto;
+}
+#main
+{
+	border: 3px green solid;
+
+	flex: 9;
+	display: flex;
+}
+nav
+{
+	border: 3px red solid;
+
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+}
+nav a
+{
+	text-decoration: none;
+	color: black;
+}
+nav div
+{
+	border: 1px black solid;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-size: 3em;
+	font-weight: bold;
+}
+#contents
+{
+	border: 3px red solid;
+
+	display: flex;
+	flex-direction: column;
+	flex: 9;
+	margin: auto;
+}
+#presentation
+{
+	border: 3px blue solid;
+
+	order: 1;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-right: 15px;
+	margin-left: 15px;
+	padding: 5px;
+}
+#guide
+{
+	border: 3px blue solid;
+
+	order: 2;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-right: 15px;
+	margin-left: 15px;
+	padding: 5px;
+}
+.title
+{
+	border: 3px black solid;
+
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	margin: 7.5px;
+	padding: 7.5px;
+}
+.text
+{
+	border: 3px black solid;
+
+	font-size: 0.87em;
+	text-align: justify;
+	margin: 7.5px;
+	padding: 7.5px;
 }
 
-@media all and (max-width: 1334px) and (max-height: 750px) and (orientation: portrait)
+
+/* Destockp screen */
+@media only screen and (min-width: 1280px)
 {
-	#block_page
-	{
-		display: flex;
-		flex-direction: column;
-	}
-	header
-	{
-		border: 3px green solid;
-
-		flex: 1;
-	}
-	header h1
-	{
-		font-size: 2.5em;
-		text-align: center;
-		text-shadow: 2px 2px 1px black;
-		font-weight: bold;
-		margin: auto;
-		padding: auto;
-	}
-	#main
-	{
-		border: 3px green solid;
-
-		flex: 9;
-		display: flex;
-	}
-	nav
-	{
-		border: 3px red solid;
-
-		flex: 1;
-		display: flex;
-		flex-direction: column;
-	}
-	nav a
-	{
-		text-decoration: none;
-		color: black;
-	}
-	nav div
-	{
-		border: 1px black solid;
-
-		padding-top: 10px;
-		padding-bottom: 10px;
-		text-align: center;
-		font-size: 3em;
-		font-weight: bold;
-	}
-	#contents
-	{
-		border: 3px red solid;
-
-		display: flex;
-		flex-direction: column;
-		flex: 9;
-		margin: auto;
-	}
-	#presentation
-	{
-		border: 3px blue solid;
-
-		order: 1;
-		margin-top: 3px;
-		margin-bottom: 3px;
-		margin-right: 15px;
-		margin-left: 15px;
-		padding: 5px;
-	}
-	#guide
-	{
-		border: 3px blue solid;
-
-		order: 2;
-		margin-top: 3px;
-		margin-bottom: 3px;
-		margin-right: 15px;
-		margin-left: 15px;
-		padding: 5px;
-	}
-	.title
-	{
-		border: 3px black solid;
-
-		font-weight: bold;
-		text-align: center;
-		text-decoration: underline;
-		margin: 7.5px;
-		padding: 7.5px;
-	}
-	.text
-	{
-		border: 3px black solid;
-
-		font-size: 0.87em;
-		text-align: justify;
-		margin: 7.5px;
-		padding: 7.5px;
-	}
+	
 }
