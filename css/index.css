@@ -3,6 +3,13 @@
     src: url('segoeui.ttf') format('truetype');
 }
 
+body
+{
+	background-image: url("main_bg.webp");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
 *
 {
 	font-family: segoeui;
@@ -19,7 +26,7 @@
 	}
 	header
 	{
-		border: 3px green solid;
+		/*border: 3px green solid;*/
 
 		flex: 1;
 	}
@@ -27,21 +34,22 @@
 	{
 		font-size: 2.5em;
 		text-align: center;
-		text-shadow: 2px 2px 1px black;
+		text-shadow: 2px 2px 5px black;
 		font-weight: bold;
+		color: white;
 		margin: auto;
 		padding: auto;
 	}
 	#main
 	{
-		border: 3px green solid;
+		/*border: 3px green solid;*/
 
 		flex: 9;
 		display: flex;
 	}
 	nav
 	{
-		border: 3px red solid;
+		/*border: 3px red solid;*/
 
 		flex: 1;
 		display: flex;
@@ -58,13 +66,15 @@
 
 		padding-top: 10px;
 		padding-bottom: 10px;
+		color: white;
+		text-shadow: 1px 1px 1px black;
 		text-align: center;
 		font-size: 3em;
 		font-weight: bold;
 	}
 	#contents
 	{
-		border: 3px red solid;
+		/*border: 3px red solid;*/
 
 		display: flex;
 		flex-direction: column;
@@ -73,7 +83,7 @@
 	}
 	#presentation
 	{
-		border: 3px blue solid;
+		/*border: 3px blue solid;*/
 
 		order: 1;
 		margin-top: 3px;
@@ -81,10 +91,14 @@
 		margin-right: 15px;
 		margin-left: 15px;
 		padding: 5px;
+
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 	}
 	#guide
 	{
-		border: 3px blue solid;
+		/*border: 3px blue solid;*/
 
 		order: 2;
 		margin-top: 3px;
@@ -92,23 +106,41 @@
 		margin-right: 15px;
 		margin-left: 15px;
 		padding: 5px;
+
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 	}
 	.title
 	{
-		border: 3px black solid;
+		/*border: 3px black solid;*/
 
+		font-size: 3em;
 		font-weight: bold;
 		text-align: center;
-		text-decoration: underline;
-		margin: 7.5px;
-		padding: 7.5px;
+		color: white;
+		text-shadow: 3px 3px 5px black;
+
+		margin: 2.5px;
+		padding: 2.5px;
+	}
+	.dash
+	{
+		border: 3px white solid;
+
+		box-shadow: 1px 2px 5px black;
+		
+		width: 75%;
+
 	}
 	.text
 	{
-		border: 3px black solid;
+		/*border: 3px black solid;*/
 
-		font-size: 0.87em;
+		font-size: 18px;
+		color: white;
 		text-align: justify;
+		text-shadow: 1px 1px 3px black;
 		margin: 7.5px;
 		padding: 7.5px;
 	}
