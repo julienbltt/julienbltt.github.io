@@ -7,13 +7,13 @@ Ces **projets** sont accompagé de **documentations** permettant leur accessibil
 
 ## Documentations
 
-- [ ] Programmation en C.
-- [ ] Programmation en C++.
-- [ ] Programmation industriel en C++.
-- [ ] Les bases de l'éléctronique numérique.
-- [ ] Les bases de l'éléctronique analogique.
-- [ ] Conception de carte éléctronique.
-- [ ] Conception d'objet 3D.
+- [ ] Programmation en C.  
+- [ ] Programmation en C++.  
+- [ ] Programmation industriel en C++.  
+- [ ] Les bases de l'éléctronique numérique.  
+- [ ] Les bases de l'éléctronique analogique.  
+- [ ] Conception de carte éléctronique.  
+- [ ] Conception d'objet 3D.  
 
 ## Projets
 
@@ -29,4 +29,4 @@ Ces **projets** sont accompagé de **documentations** permettant leur accessibil
 > **Téléphone** : *+33 6 69 01 35 00*  
 > **Email** : *julien.blt@outlook.com*
 
-<kbd>***V0.6***</kbd>
+***<kbd>V0.7</kbd>***
