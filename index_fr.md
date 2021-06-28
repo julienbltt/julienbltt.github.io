@@ -1,5 +1,19 @@
-# BLT - Bienvenue sur mon site personnel.
-Sur ce site je vais *partager des **projets*** et divers ***documents** relatif à l'apprentissage* de chaque domaine vu dans ces projets.
-> Merci de votre attention et à bientôt !
+| [BLT's](https://julienbltt.github.io) | [ACCEUIL](https://julienbltt.github.io) | [DOCUMENTS](https://julienbltt.github.io/documents.md) | [PROJETS](https://julienbltt.github.io/projets.md) | [CONTACTS](https://julienbltt.github.io/contacts.md) |
+| :---- | :-----: | :-------: | :-----: | :------: |
 
-Langage : | [EN](https://julienbltt.github.io/) | [FR](https://julienbltt.github.io/index_fr) |
+## Présentation
+
+[…TEXT…]
+
+---
+
+### Projets en cour
+
+[…TEXT…]
+
+### Projets en cour
+
+[…TEXT…]
+
+> Acceuil
+
