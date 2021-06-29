@@ -32,4 +32,4 @@ Ces **projets** sont accompagnés de **documentations** permettant leur accessib
 > **Téléphone** : *+33 6 69 01 35 00*  
 > **Email** : *julien.blt@outlook.com*   
 
-***<kbd>V0.21</kbd>***
+***<kbd>V1.0</kbd>***
