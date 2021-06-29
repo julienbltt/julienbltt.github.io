@@ -1,4 +1,4 @@
-Langage : [**<kbd>English<kbd>**](https://julienbltt.github.io/) ou [**<kbd>Français<kbd>**](https://julienbltt.github.io/fr/)   
+Langage : [**<kbd>English</kbd>**](https://julienbltt.github.io/) ou [**<kbd>Français</kbd>**](https://julienbltt.github.io/fr/)   
 
 # Présentation
 
@@ -32,4 +32,4 @@ Ces **projets** sont accompagnés de **documentations** permettant leur accessib
 > **Téléphone** : *+33 6 69 01 35 00*  
 > **Email** : *julien.blt@outlook.com*   
 
-***<kbd>V0.20</kbd>***
+***<kbd>V0.21</kbd>***
