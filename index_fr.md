@@ -1,10 +1,10 @@
 # Présentation
 
 **Bienvenue sur BLT'S.**  
-Un espace dans lequel est rangé des ***projets*** d'*informatique industriel*, d'*électronique* ou d'*informatique de gestion*.  
+Un espace dans lequel est rangé des **projets** d'*informatique industriel*, d'*électronique* ou d'*informatique de gestion*.  
 Ces **projets** sont accompagnés de **documentations** permettant leur accessibilités.  
 
-## Documentations […](https://julienbltt.github.io/documentations)
+## Documentations […](https://julienbltt.github.io/fr/documentations)
 
 - [ ] <span> </span>Programmation en C.
 - [ ] <span> </span>Programmation en C++.
@@ -15,14 +15,14 @@ Ces **projets** sont accompagnés de **documentations** permettant leur accessib
 - [ ] <span> </span>Conception d'objet 3D.
 
 
-## Projets […](https://julienbltt.github.io/projets)
+## Projets […](https://julienbltt.github.io/fr/projets)
 
 - JSON2MAE. (Fichier JSON convertie en machine à états)
 - Robot N1N0. (ER2)
 - Robot Block. (ER1)
 - Messagerie en Python. (Socket/Thread)
 - Sudoku en Python. (Tkinter)
-- Calculateur de matris : MatriX.
+- Calculateur de matrice : MatriX.
 
 ---
 
@@ -30,4 +30,5 @@ Ces **projets** sont accompagnés de **documentations** permettant leur accessib
 > **Téléphone** : *+33 6 69 01 35 00*  
 > **Email** : *julien.blt@outlook.com*
 
+Langage : | [EN](https://julienbltt.github.io/) | [FR](https://julienbltt.github.io/fr/)  
 ***<kbd>V1.0</kbd>***
