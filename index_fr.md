@@ -1,3 +1,5 @@
+| Langage : | **<kbd>[EN](https://julienbltt.github.io/)</kbd>** | **<kbd>[FR](https://julienbltt.github.io/fr/)</kbd>** |  
+
 # Présentation
 
 **Bienvenue sur BLT'S.**  
@@ -28,7 +30,6 @@ Ces **projets** sont accompagnés de **documentations** permettant leur accessib
 
 > **Auteur** : BALDERIOTTI Julien  
 > **Téléphone** : *+33 6 69 01 35 00*  
-> **Email** : *julien.blt@outlook.com*
+> **Email** : *julien.blt@outlook.com*   
 
-Langage : | [EN](https://julienbltt.github.io/) | [FR](https://julienbltt.github.io/fr/)  
 ***<kbd>V1.0</kbd>***
