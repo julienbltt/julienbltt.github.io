@@ -1,4 +1,4 @@
-Langage : [**<kbd>English**](https://julienbltt.github.io/) ou [**<kbd>Français**](https://julienbltt.github.io/fr/)   
+Langage : [**<kbd>English<kbd>**](https://julienbltt.github.io/) ou [**<kbd>Français<kbd>**](https://julienbltt.github.io/fr/)   
 
 # Présentation
 
