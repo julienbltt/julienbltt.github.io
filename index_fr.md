@@ -6,18 +6,13 @@ Ces **projets** sont accompagé de **documentations** permettant leur accessibil
 
 ## Documentations […](https://julienbltt.github.io/documentations)
 
-- [ ] Programmation en C
-- [ ] Programmation en C++.  
-- [ ] Programmation industriel en C++.  
-- [ ] Les bases de l'électronique numérique.  
-- [ ] Les bases de l'éléctronique analogique.  
-- [ ] Conception de carte éléctronique.  
-- [ ] Conception d'objet 3D.  
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [ ] <span> </span>Programmation en C.
+- [ ] <span> </span>Programmation en C++.
+- [ ] <span> </span>Programmation industriel en C++.
+- [ ] <span> </span>Les bases de l'électronique numérique.
+- [ ] <span> </span>Les bases de l'éléctronique analogique.
+- [ ] <span> </span>Conception de carte éléctronique.
+- [ ] <span> </span>Conception d'objet 3D.
 
 
 ## Projets […](https://julienbltt.github.io/projets)
@@ -35,4 +30,4 @@ Ces **projets** sont accompagé de **documentations** permettant leur accessibil
 > **Téléphone** : *+33 6 69 01 35 00*  
 > **Email** : *julien.blt@outlook.com*
 
-***<kbd>V0.14</kbd>***
+***<kbd>V0.15</kbd>***
