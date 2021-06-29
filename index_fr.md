@@ -1,8 +1,8 @@
 # Présentation
 
 **Bienvenue sur BLT'S.**  
-Un espace dans lequel est rangé des ***projets*** d'*informatique industriel*, d'*éléctronique* ou d'*informatique de gestion*.  
-Ces **projets** sont accompagé de **documentations** permettant leur accessibilitée.  
+Un espace dans lequel est rangé des ***projets*** d'*informatique industriel*, d'*électronique* ou d'*informatique de gestion*.  
+Ces **projets** sont accompagnés de **documentations** permettant leur accessibilités.  
 
 ## Documentations […](https://julienbltt.github.io/documentations)
 
@@ -22,7 +22,7 @@ Ces **projets** sont accompagé de **documentations** permettant leur accessibil
 - Robot Block. (ER1)
 - Messagerie en Python. (Socket/Thread)
 - Sudoku en Python. (Tkinter)
-- Résolveur de matris : MatriX.
+- Calculateur de matris : MatriX.
 
 ---
 
