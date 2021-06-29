@@ -4,7 +4,7 @@ Langage : [**<kbd>English</kbd>**](https://julienbltt.github.io/documentation) o
 
 ---
 
-> *[Acceuil](https://julienbltt.github.io/fr) > [Documentations](https://julienbltt.github.io/fr/documentation)*  
+> *[Acceuil](https://julienbltt.github.io/fr) > [Documentations](https://julienbltt.github.io/fr/documentations)*  
 
 ---
 

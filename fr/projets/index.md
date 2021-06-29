@@ -4,7 +4,7 @@ Langage : [**<kbd>English</kbd>**](https://julienbltt.github.io/projects) or [**
 
 ---
 
-> *[Acceuil](https://julienbltt.github.io/fr) > [Projets](https://julienbltt.github.io/fr/projects)*  
+> *[Acceuil](https://julienbltt.github.io/fr) > [Projets](https://julienbltt.github.io/fr/projets)*  
 
 ---
 
