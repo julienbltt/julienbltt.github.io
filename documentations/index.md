@@ -1,10 +1,10 @@
-Language : [**<kbd>English</kbd>**](https://julienbltt.github.io/documentation) or [**<kbd>Français</kbd>**](https://julienbltt.github.io/fr/documentation)
+Language : [**<kbd>English</kbd>**](https://julienbltt.github.io/documentations) or [**<kbd>Français</kbd>**](https://julienbltt.github.io/fr/documentations)
 
 # Welecome in Documentations.
 
 ---
 
-> *[Home](https://julienbltt.github.io) > [Documentations](https://julienbltt.github.io/documentation)*  
+> *[Home](https://julienbltt.github.io) > [Documentations](https://julienbltt.github.io/documentations)*  
 
 ---
 

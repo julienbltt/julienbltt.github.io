@@ -1,4 +1,4 @@
-Langage : [**<kbd>English</kbd>**](https://julienbltt.github.io/projects) or [**<kbd>Français</kbd>**](https://julienbltt.github.io/fr/projet)
+Langage : [**<kbd>English</kbd>**](https://julienbltt.github.io/projects) or [**<kbd>Français</kbd>**](https://julienbltt.github.io/fr/projets)
 
 # Bienvenue dans Projets.
 
