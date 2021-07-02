@@ -1,6 +1,6 @@
 Langage : [**<kbd>English</kbd>**](https://julienbltt.github.io/documentations) or [**<kbd>Français</kbd>**](https://julienbltt.github.io/fr/documentations)
 
-# Dienvenue dans Documentations.
+# Bienvenue dans Documentations.
 
 ---
 
