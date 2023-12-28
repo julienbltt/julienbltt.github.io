@@ -3,7 +3,8 @@
 ---
 
 | [Acceuil](./index.md) | [Projets](./projets.md) | [**Informations**](./information.md) | [Contacts](./contacts.md) | [Aide](./aide.md) |
-| :---: | :---: | :---: | :---: | :---: |  
+| :---: | :---: | :---: | :---: | :---: |
+| | | | |
 
 ---
 
