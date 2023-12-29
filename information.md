@@ -2,7 +2,7 @@
 
 ---
 
-| [Acceuil](./index.md) | [Projets](./projets.md) | [**Informations**](./information.md) | [Contacts](./contacts.md) | [Aide](./aide.md) |
+| [Acceuil](./index) | [Projets](./projets) | [**Informations**](./information) | [Contacts](./contacts) | [Aide](./aide) |
 | :---: | :---: | :---: | :---: | :---: |
 | | | | |
 
