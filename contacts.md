@@ -1,4 +1,10 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+    </head>
+
+    <body>
 
 # ![LOGO](./imgs/JB-BLT%20LOGO%20without%20bg.png)
 
@@ -20,3 +26,7 @@
 **E-mail :** julien.blt@outlook.com
 
 **Téléphone :** 06 69 01 35 00
+
+   </body>
+
+</html>
