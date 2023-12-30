@@ -4,7 +4,7 @@
 
 | [Acceuil](..) | [**Projets**](../projets) | [Informations](../information) | [Contacts](../contacts) | [Aide](../aide) |
 | :---: | :---: | :---: | :---: | :---: |  
-| | | | |
+| [![HOME](./imgs/home.png)](.) | [![PROJECT](./imgs/projects.png)](./projets) | [![INFO](./imgs/resume.png)](./information) | [![PROJECT](./imgs/contacts.png)](./contacts) | [![PROJECT](./imgs/help.png)](./aide) |
 
 ---
 
