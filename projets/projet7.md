@@ -1,4 +1,4 @@
-# ![LOGO](../imgs/logo-jb-blt.png)
+# ![LOGO](../imgs/logo-jb-blt.png "LOGO")
 
 ---
 
