@@ -14,7 +14,7 @@ Ce site web me permet de rassembler des projets personnel que je conçois pour p
 
 ## Nouveaux projets
 
-![Image projet](./imgs/projet1.png)
-![Image projet](./imgs/projet2.png)
-![Image projet](./imgs/projet3.png)
-![Image projet](./imgs/projet4.png)
+[![Image projet](./imgs/projet1.png)](./projets/projet1)
+[![Image projet](./imgs/projet2.png)](./projets/projet2)
+[![Image projet](./imgs/projet3.png)](./projets/projet3)
+[![Image projet](./imgs/projet4.png)](./projets/projet4)
