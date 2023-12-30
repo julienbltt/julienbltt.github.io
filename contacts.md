@@ -14,6 +14,6 @@
 
 ## Coordonnées
 
-**E-mail :** `julien.blt\@outlook.com`
+**E-mail :** `julien.blt@outlook.com`
 
 **Téléphone :** `06 69 01 35 00`
