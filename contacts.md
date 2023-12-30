@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-    </head>
-
-    <body>
-
 # ![LOGO](./imgs/JB-BLT%20LOGO%20without%20bg.png)
 
 ---
@@ -17,16 +9,11 @@
 ---
 
 ## Réseaux sociaux
-[LinkedIn](www.linkedin.com/in/julien-balderiotti)
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="julien-b-724798218" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/julien-b-724798218?trk=profile-badge">Julien B.</a></div>
+[![logo-linkdedin](./imgs/logo-linkedin.png)](https://www.linkedin.com/in/julien-balderiotti)
 
 ## Coordonnées
 
-**E-mail :** julien.blt@outlook.com
+**E-mail :** `julien.blt\@outlook.com`
 
-**Téléphone :** 06 69 01 35 00
-
-   </body>
-
-</html>
+**Téléphone :** `06 69 01 35 00`
