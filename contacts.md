@@ -1,4 +1,4 @@
-# ![LOGO](./imgs/JB-BLT%20LOGO%20without%20bg.png)
+# ![LOGO](# ![LOGO](./imgs/logo-jb-blt.png))
 
 ---
 
