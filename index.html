@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Julien's Github Repositories</title>
+    <link rel="stylesheet" href="https://unpkg.com/98.css">
+    <style>
+        body {
+            background-image: url('background-windows-xp.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            padding: 1rem;
+        }
+        .window-main {
+            width: 95%;
+            max-width: 1200px;
+        }
+        .status-bar {
+            display: flex;
+            gap: 0.5rem;
+            padding: 2px 4px;
+        }
+        .status-bar-field {
+            margin: 0;
+            font-size: 11px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        @media (max-width: 768px) {
+            .container {
+                padding: 0.5rem;
+            }
+            .window-main {
+                width: 100%;
+            }
+        }
+    </style>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="window window-main">
+            <div class="title-bar">
+                <div class="title-bar-text">Julien's Github repositories</div>
+            </div>
+            <div class="window-body">
+                <!-- Les repositories seront injectés ici par JavaScript -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>
